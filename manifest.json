@@ -1451,8 +1451,11 @@
     }
   },
   "files": {
+    ".RData": {
+      "checksum": "4860bd287eb0e77823cdef9b7e9e402a"
+    },
     "app.R": {
-      "checksum": "d7db880a8eb099ad4a163c47497d0392"
+      "checksum": "0cf5305c430fe69375beda3910406c43"
     },
     "README.md": {
       "checksum": "5163f7a7c3cc44743edff9c9a1206e32"
